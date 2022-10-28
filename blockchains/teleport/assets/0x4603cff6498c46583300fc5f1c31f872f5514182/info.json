@@ -1,0 +1,11 @@
+{
+    "name": "Test USD Coin",
+    "type": "ERC20",
+    "symbol": "USDC",
+    "decimals": 18,
+    "website": "https://alchemydao.com/",
+    "description": "usdc test description",
+    "explorer": "https://etherscan.io/token/0x0000A1c00009A619684135B824Ba02f7FbF3A572",
+    "status": "active",
+    "id": "0x4603cff6498c46583300fc5f1c31f872f5514182"
+}
