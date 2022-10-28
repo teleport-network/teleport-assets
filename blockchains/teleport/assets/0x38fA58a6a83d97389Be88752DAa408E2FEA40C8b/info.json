@@ -1,0 +1,11 @@
+{
+    "name": "DAI COIN",
+    "type": "ERC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "website": "https://alchemydao.com/",
+    "description": "dai test description",
+    "explorer": "https://etherscan.io/token/0x0000A1c00009A619684135B824Ba02f7FbF3A572",
+    "status": "active",
+    "id": "0x38fA58a6a83d97389Be88752DAa408E2FEA40C8b"
+}
