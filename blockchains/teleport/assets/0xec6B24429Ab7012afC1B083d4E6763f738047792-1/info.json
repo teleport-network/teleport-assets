@@ -1,0 +1,11 @@
+{
+    "name": "Test Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Test Tether USD description",
+    "website": "https://charitytokenonline.com/",
+    "explorer": "https://etherscan.io/token/0x0a2eaa1101BFec3844d9F79Dd4E5B2F2D5B1fD4D",
+    "status": "abandoned",
+    "id": "0xec6B24429Ab7012afC1B083d4E6763f738047792"
+}
